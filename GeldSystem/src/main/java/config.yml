@@ -1,0 +1,25 @@
+MySQL:
+  Host: "localhost"
+  Database: "geldsystem"
+  User: "root"
+  Password: "1234"
+Messages:
+  Prefix: "&3&l[&5GeldSystem&3&l]&r "
+  Start: "&2Das Plugin wird gestartet..."
+  Gestartet: "&2Das Plugin ist gestartet..."
+  Fehler: "&4Das PLugin hat einen Fehler..."
+  KeineBerechtigung: "&4Du hast &c&lkeine &4Berechtigung zu diesem Befehl!"
+  KeinKonsolenBefehl: "&4Das ist &c&lkein &4Konsolen befehl"
+Money:
+  StartGeld: 1000
+  Waehrung: "Coins"
+  KontoErstellt: "&2Dein Konto wurde erstellt und du hast %Money% %Waehrung%"
+  DeinGeld: "&2Du hast &a&l%Money% &a%Waehrung%!"
+
+
+
+#Money.Add
+#Money.Remove
+#Money.Set
+
+

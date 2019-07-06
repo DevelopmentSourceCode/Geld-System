@@ -1,0 +1,7 @@
+name: Geld-System
+version: 1.0
+author: Ayley
+main: de.ayley.geldsystem.GeldSystem.GeldSystem
+commands:
+  money:
+  vmoney:
